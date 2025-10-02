@@ -19,7 +19,7 @@ A visually appealing clone of the Amazon homepage, built using only HTML and CSS
 1. **Download or Clone the Repository**
    - Download the ZIP or run:
      ```bash
-     git clone https://github.com/your-username/your-repo-name.git
+     git clone https://github.com/shubhambatwal03/Amazon-Clone-Application.git
      ```
 2. **Open the Project in VS Code**
 3. **Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) Extension**
