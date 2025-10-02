@@ -42,6 +42,11 @@ README.md          # Project documentation
 
 ---
 
+## Screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/606fe9bb-9763-40ba-b467-8ca8ceb343f1" />
+
+---
+
 ## 🙌 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
